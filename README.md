@@ -41,6 +41,7 @@ This project uses Formula 1 data from [Kaggle](https://www.kaggle.com/datasets/r
 ## How to Use
 
 **Disclaimer**: The app is optimized for dark mode. If your browser is set to light mode, some elements may not display correctly. We recommend switching to dark mode for the best experience.
+
 After launching the app, you'll see two main tabs: "General Stats" and "Driver Analysis".
 
 ### General Stats Tab
