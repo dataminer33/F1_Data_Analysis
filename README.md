@@ -4,6 +4,8 @@
 
 An interactive Streamlit app for exploring Formula 1 statistics, driver performances, and constructor impacts across seasons.
 
+[![Go to App](https://img.shields.io/badge/Go_to_App-Streamlit-brightgreen)]([https://your-streamlit-app-link.com](https://f1-data-analysis.streamlit.app/))
+
 
 ## Features
 
