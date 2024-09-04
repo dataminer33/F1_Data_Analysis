@@ -14,7 +14,7 @@ An interactive Streamlit app for exploring Formula 1 statistics, driver performa
 - Top drivers and constructors analysis
 - Interactive driver comparison tool
 - Race-by-race result exploration
-- Responsive design with dark mode support
+
 
 ## Installation for local usage
 
@@ -40,6 +40,7 @@ This project uses Formula 1 data from (https://www.kaggle.com/datasets/rohanrao/
 
 ## How to Use
 
+- **Disclaimer Placement**: The disclaimer is placed under "How to Use," making it clear that dark mode is recommended for the best experience.
 After launching the app, you'll see two main tabs: "General Stats" and "Driver Analysis".
 
 ### General Stats Tab
