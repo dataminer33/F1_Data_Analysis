@@ -36,11 +36,11 @@ An interactive Streamlit app for exploring Formula 1 statistics, driver performa
 
 ## Data Sources
 
-This project uses Formula 1 data from (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) The data is preprocessed and stored in CSV files within the `data/` directory.
+This project uses Formula 1 data from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) The data is preprocessed and stored in CSV files within the `data/` directory.
 
 ## How to Use
 
-- **Disclaimer Placement**: The disclaimer is placed under "How to Use," making it clear that dark mode is recommended for the best experience.
+- **Disclaimer **: The app is optimized for dark mode. If your browser is set to light mode, some elements may not display correctly. We recommend switching to dark mode for the best experience.
 After launching the app, you'll see two main tabs: "General Stats" and "Driver Analysis".
 
 ### General Stats Tab
