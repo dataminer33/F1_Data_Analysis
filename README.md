@@ -31,7 +31,7 @@ An interactive Streamlit app for exploring Formula 1 statistics, driver performa
 
 ## Data Sources
 
-This project uses Formula 1 data from [[Ergast Developer API](http://ergast.com/mrd/).](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) The data is preprocessed and stored in CSV files within the `data/` directory.
+This project uses Formula 1 data from (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) The data is preprocessed and stored in CSV files within the `data/` directory.
 
 ## How to Use
 
