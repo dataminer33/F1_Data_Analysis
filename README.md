@@ -1,6 +1,9 @@
 # F1 Data Analysis
 
+![F1 Data Analysis](static/images/preview.png)
+
 An interactive Streamlit app for exploring Formula 1 statistics, driver performances, and constructor impacts across seasons.
+
 
 ## Features
 
