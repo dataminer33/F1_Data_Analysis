@@ -112,7 +112,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Load data (using your existing load_data function)
+# Load data
 @st.cache_data
 def load_data():
     results = pd.read_csv('data/results.csv')
@@ -203,7 +203,7 @@ with tab1:
     top_constructors['adjusted_win_rate'] = top_constructors['adjusted_win_rate'].apply(lambda x: f"{x:.4f}")
     top_constructors['win_rate'] = top_constructors['win_rate'].apply(lambda x: f"{x:.4f}")
 
-    # Display general stats in a more visually appealing way
+    # Display general stats
     col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Total Drivers that Raced in F1 ", len(drivers))
